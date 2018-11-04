@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b2a87abf160c4cbaa2a3e61bc70b4, type: 3}
+  m_Name: Gear dart
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 94c969a15f4c61f4492618e0409cdf82, type: 3}
+  stackSize: 1
+  itemName: 'Gear dart '
+  itemIntroduction: 'This is comes from the Maplestory. I never have enough money
+    to buy it. '
+  itemDetail: 'ATT+40;DEX+10; '
+  quality: 2
+  att: 40
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 10
+  luk: 0
+  aspd: 0

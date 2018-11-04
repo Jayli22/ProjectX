@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0646fb34788484c40abbb6b840f4c958, type: 3}
+  m_Name: Stars Hat
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a6e958ef2f6a62941af62ad80ae685e0, type: 3}
+  stackSize: 1
+  itemName: 'Stars Hat '
+  itemIntroduction: 'With this magic hat, you may take everything in a glance.  '
+  itemDetail: 'INT+20; '
+  quality: 3
+  att: 0
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 20
+  con: 0
+  dex: 0
+  luk: 0

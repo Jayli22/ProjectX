@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce432fd18bdf8a408b2972d9029d1a9, type: 3}
+  m_Name: Travel boots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 11aec836ba1f1c34ebc56b67c65ddb7f, type: 3}
+  stackSize: 1
+  itemName: 'Travel boots '
+  itemIntroduction: 'The travel boots could help you move faster. '
+  itemDetail: 'SPD+0.1;DEF+2; '
+  quality: 1
+  att: 0
+  def: 2
+  spd: 0.1
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0

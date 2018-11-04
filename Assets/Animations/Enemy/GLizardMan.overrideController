@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GLizardMan
+  m_Controller: {fileID: 9100000, guid: 0ae3079d2684a4343ad6902c1bd45f17, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8f15731f4eae77c409de08dcc9db4bc4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 494620ee86a555040961f0611e67294c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: de8c9d93321454542a88a0ffed76fd14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1a4a4eb262342c847afe287e96db7271, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fac67d15b4b01ee4794de319aaae2274, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 76df651169302614f956c579c3f8c49a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ed5dc5f57f5ffb4a9d1850517915f66, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d8a3515e22396934aa0ba5c6d292c190, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5a154f64f178b040a940a336765fd8c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d39997ec829278d45beea1ab0bf161c3, type: 2}

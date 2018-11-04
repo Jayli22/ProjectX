@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61212d31fb3cfb459b19f887067897f, type: 3}
+  m_Name: Copper necklace
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: daaf9eb080b6d484ba56c9056b8edb32, type: 3}
+  stackSize: 1
+  itemName: Copper necklace
+  itemIntroduction: 'A common copper necklace. '
+  itemDetail: 'MAXMP+10; '
+  quality: 0
+  att: 0
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 10
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0

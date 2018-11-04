@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61212d31fb3cfb459b19f887067897f, type: 3}
+  m_Name: Ocean heart
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b70a3c02bb7b96640aa7b5fa176e3396, type: 3}
+  stackSize: 1
+  itemName: 'Ocean heart '
+  itemIntroduction: 'This necklace has blessed by the ocean. Wearing this necklace,
+    you may feel the power of ocean. '
+  itemDetail: 'SPD+0.3;ATT+10; '
+  quality: 2
+  att: 10
+  def: 0
+  spd: 0.3
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b2a87abf160c4cbaa2a3e61bc70b4, type: 3}
+  m_Name: Book of elements
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: d8e5ee2fb5c6f634c8912d8c47d87b33, type: 3}
+  stackSize: 1
+  itemName: 'Book of elements '
+  itemIntroduction: 'This book is full of the elements, you can touch various elements
+    in this book. '
+  itemDetail: 'INT+80;MAXHP+100;MAXMP+100; '
+  quality: 3
+  att: 0
+  def: 0
+  spd: 0
+  hp: 100
+  mp: 100
+  str: 0
+  iNt: 80
+  con: 0
+  dex: 0
+  luk: 0
+  aspd: 0

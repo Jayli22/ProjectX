@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61212d31fb3cfb459b19f887067897f, type: 3}
+  m_Name: Supreme holy
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 130648ebade9a2b4aa28f09cdd1240f2, type: 3}
+  stackSize: 1
+  itemName: 'Supreme holy '
+  itemIntroduction: 'This necklace is full of divine power, with the power to banish
+    all evil. '
+  itemDetail: 'CON+5;LUK+5;INT+5;DEF+30; '
+  quality: 3
+  att: 0
+  def: 30
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 5
+  con: 5
+  dex: 0
+  luk: 5

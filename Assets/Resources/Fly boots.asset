@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce432fd18bdf8a408b2972d9029d1a9, type: 3}
+  m_Name: Fly boots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 72ba39ad905d41a4d88dfa51fa3a1407, type: 3}
+  stackSize: 1
+  itemName: 'Fly boots '
+  itemIntroduction: 'The fly boots is the upgrade of the travel boots, someone says
+    that you may fly with this boots. '
+  itemDetail: 'SPD+0.1;DEF+1;DEX+3; '
+  quality: 1
+  att: 0
+  def: 1
+  spd: 0.1
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 3
+  luk: 0

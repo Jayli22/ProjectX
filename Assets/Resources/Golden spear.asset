@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b2a87abf160c4cbaa2a3e61bc70b4, type: 3}
+  m_Name: Golden spear
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 2c01aec25634db14aa16c81e65f7da41, type: 3}
+  stackSize: 0
+  itemName: 'Golden spear '
+  itemIntroduction: 'A golden spear, obviously, not as handsome as a sliver spear. '
+  itemDetail: 'ATT+40; '
+  quality: 2
+  att: 40
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0
+  aspd: 0

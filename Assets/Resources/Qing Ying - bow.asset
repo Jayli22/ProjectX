@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b2a87abf160c4cbaa2a3e61bc70b4, type: 3}
+  m_Name: Qing Ying - bow
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: dad79adb7c4924f4b83e84cb38b8b2d0, type: 3}
+  stackSize: 1
+  itemName: 'Qing Ying - bow '
+  itemIntroduction: 'Qing Ying bow, I don''t know how to translate this ! This bow
+    is quite light and powerful in the same time. '
+  itemDetail: 'ATT+30;ASPD+15%;DEX+30; '
+  quality: 3
+  att: 30
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 30
+  luk: 0
+  aspd: 0.15

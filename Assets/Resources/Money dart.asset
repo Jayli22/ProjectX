@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b2a87abf160c4cbaa2a3e61bc70b4, type: 3}
+  m_Name: Money dart
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  stackSize: 0
+  itemName: Money dart
+  itemIntroduction: 'This is also comes from the Maplestory. I think this is more
+    powerful beacause of the apperance. '
+  itemDetail: 'ATT+60;DEX+15; '
+  quality: 3
+  att: 60
+  def: 0
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 15
+  luk: 0
+  aspd: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b529b5e53f855ea4793779c57e2c7de6, type: 3}
+  m_Name: Ebony dragon
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1744af55b2176cc4e8f116124a1406ae, type: 3}
+  stackSize: 1
+  itemName: 'Ebony dragon '
+  itemIntroduction: 'A shield made from keel and ebony. Which one is strong, dragon
+    bone or Ebony? '
+  itemDetail: 'DEF+20; '
+  quality: 2
+  att: 0
+  def: 20
+  spd: 0
+  hp: 0
+  mp: 0
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0

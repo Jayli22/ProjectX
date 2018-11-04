@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FeuFoolet
+  m_Controller: {fileID: 9100000, guid: 0ae3079d2684a4343ad6902c1bd45f17, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8f15731f4eae77c409de08dcc9db4bc4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5d538a43c787bd64189343cf0031a074, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fac67d15b4b01ee4794de319aaae2274, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf5fd7fa2047c004aaf9f0c8f918a7b5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: de8c9d93321454542a88a0ffed76fd14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20bc06bd5ab91974582571542c01d868, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5a154f64f178b040a940a336765fd8c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a12d492a23a06f41a60b64dcfe7096b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ed5dc5f57f5ffb4a9d1850517915f66, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c5f83936faff7694f9bae5e9bef05811, type: 2}

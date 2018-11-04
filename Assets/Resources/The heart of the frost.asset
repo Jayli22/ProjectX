@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61212d31fb3cfb459b19f887067897f, type: 3}
+  m_Name: The heart of the frost
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: cdd77f51e47587b4392f9175ee0ac88e, type: 3}
+  stackSize: 1
+  itemName: 'The heart of the frost '
+  itemIntroduction: 'A precious necklace, you could fell that cold comes from this
+    necklace. '
+  itemDetail: 'DEF+3;MAXMP+100; '
+  quality: 2
+  att: 0
+  def: 3
+  spd: 0
+  hp: 0
+  mp: 100
+  str: 0
+  iNt: 0
+  con: 0
+  dex: 0
+  luk: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Squirrel
+  m_Controller: {fileID: 9100000, guid: 0ae3079d2684a4343ad6902c1bd45f17, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8f15731f4eae77c409de08dcc9db4bc4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 99c5a4fae53bfa146b8316438d64bcc4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: de8c9d93321454542a88a0ffed76fd14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d700f551dd0221946b6f88956bc418a7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fac67d15b4b01ee4794de319aaae2274, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 489b7d85e559cdd43b3b03b3f7a69419, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4ed5dc5f57f5ffb4a9d1850517915f66, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 023388a5c9574be4c8dd77caa5983a5b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5a154f64f178b040a940a336765fd8c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8fdcd49fa830a04d838b3ef522c9b56, type: 2}
