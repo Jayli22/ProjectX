@@ -1,2 +1,3 @@
 # ProjectX
-sample
+This is My Bachlor graduate project.
+Using Unity.
